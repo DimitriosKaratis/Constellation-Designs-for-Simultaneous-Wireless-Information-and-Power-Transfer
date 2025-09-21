@@ -1,6 +1,6 @@
-# Constellation Design for Simultaneous Wireless Information and Power Transfer (SWIPT)
+# Constellation Designs for Simultaneous Wireless Information and Power Transfer (SWIPT)
 
-This repository contains the project for the course **Communication Systems II**, at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
+This repository contains the project for the course **Telecommunication Systems II**, at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
 The goal is to analyze and design constellations for **Simultaneous Wireless Information and Power Transfer (SWIPT)**, focusing on the trade-off between **Peak-to-Average Power Ratio (PAPR)** (linked to energy harvesting) and **Symbol Error Probability (SEP)** (linked to minimum Euclidean distance, dmin).
 
 ---
@@ -67,7 +67,3 @@ The goal is to analyze and design constellations for **Simultaneous Wireless Inf
 
 - [R1] G. M. Kraidy, C. Psomas and I. Krikidis, *"Fundamentals of Circular QAM for Wireless Information and Power Transfer,"* IEEE SPAWC, 2021.  
 - [R2] M. J. L. Morales, K. Chen-Hu and A. G. Armada, *"Optimum Constellation for Symbol-Error-Rate to PAPR Ratio Minimization in SWIPT,"* IEEE VTC-Spring, 2022.
-
-
-Department of Electrical and Computer Engineering  
-Aristotle University of Thessaloniki  
