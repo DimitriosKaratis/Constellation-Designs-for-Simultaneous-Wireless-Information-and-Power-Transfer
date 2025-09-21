@@ -1,6 +1,6 @@
 # Constellation Design for Simultaneous Wireless Information and Power Transfer (SWIPT)
 
-This repository contains our project for the course **Communication Systems II** at Aristotle University of Thessaloniki.  
+This repository contains the project for the course **Communication Systems II**, at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki.**
 The goal is to analyze and design constellations for **Simultaneous Wireless Information and Power Transfer (SWIPT)**, focusing on the trade-off between **Peak-to-Average Power Ratio (PAPR)** (linked to energy harvesting) and **Symbol Error Probability (SEP)** (linked to minimum Euclidean distance, dmin).
 
 ---
